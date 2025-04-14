@@ -1,7 +1,6 @@
 import { BackgroundLines } from "@/components/aceternity-ui/background-lines";
 import { FlipWords } from "@/components/aceternity-ui/flip-words";
 import FeaturedSliderWrapper from "./components/FeaturedSlider";
-import PopularNow from "./components/PopularNow";
 import CategoryGrid from "./components/CategoryGrid";
 import CTASection from "./components/CTASection";
 
